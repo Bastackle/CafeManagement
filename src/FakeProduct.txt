@@ -1,0 +1,10 @@
+Coffee Espresso price
+Coffee Cappuccino price
+Coffee Latte price
+Soda RedSoda price
+Soda KiwiSoda price
+Soda LemonateSoda price
+Soda ChaThai price
+Tea GreenTea price
+Tea IceMilkTea price
+Tea ChaThai price

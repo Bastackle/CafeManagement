@@ -1,0 +1,11 @@
+Coffee LiteMocha 45.00
+Coffee Mocha 45.00
+Coffee Americano 40.00
+Coffee Macchiato 40.00
+Soda RoseFruitSoda 20.00
+Soda PeachSoda 20.00
+Tea Matcha 50.00
+Tea MatchaLatte 45.00
+Tea GreenMilkTea 40.00
+Tea LemonTea 35.00
+Tea BlackTea 30.00

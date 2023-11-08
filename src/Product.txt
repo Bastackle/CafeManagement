@@ -1,0 +1,9 @@
+Coffee Espresso 35.00
+Coffee Cappuccino 40.00
+Coffee Latte 30.00
+Soda RedSoda 20.00
+Soda KiwiSoda 20.00
+Soda LemonateSoda 25.00
+Tea BlackTea 25.00
+Tea GreenTea 30.00
+Tea IceMilkTea 35.00
