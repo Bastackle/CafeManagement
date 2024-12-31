@@ -11,3 +11,7 @@ This application supports cafe operations, allowing staff to place customer's or
 ## Technologies Used
 - Java
 
+## Project File and Test Data File
+* **Project File:** https://drive.google.com/file/d/1AqYBrsEhAhOBZqna177shH4JQfiXap1J/view?usp=sharing
+* **Test Data File:** https://drive.google.com/file/d/1nyQSsMALNdwQ-WDaAv3WnGAbPO2ISmAs/view?usp=sharing
+ 
